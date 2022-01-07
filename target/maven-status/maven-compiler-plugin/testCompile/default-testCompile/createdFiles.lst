@@ -1,0 +1,7 @@
+com/technicaltest/paymentprocessor/resttemplatetest/PaymentServiceForTest.class
+com/technicaltest/paymentprocessor/resttemplatetest/PaymentServiceTest.class
+com/technicaltest/paymentprocessor/kafkaintegrationtest/KafkaConsumer.class
+com/technicaltest/paymentprocessor/PaymentprocessorApplicationTests.class
+com/technicaltest/paymentprocessor/kafkaintegrationtest/KafkaProducer.class
+com/technicaltest/paymentprocessor/jpatest/JPARepositoryTest.class
+com/technicaltest/paymentprocessor/kafkaintegrationtest/KafkaIntegrationTest.class
